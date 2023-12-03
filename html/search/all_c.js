@@ -7,5 +7,5 @@ var searchData=
   ['setcurrency_4',['setCurrency',['../classpkg_piggy_bank_1_1pkg_domain_1_1cls_piggy_bank.html#a087f17387caa8b408552da4ff594e505',1,'pkgPiggyBank::pkgDomain::clsPiggyBank']]],
   ['setpiggy_5',['setPiggy',['../classpkg_piggy_bank_1_1pkg_domain_1_1cls_coin.html#aeca50777267b84b0c484462318912119',1,'pkgPiggyBank::pkgDomain::clsCoin']]],
   ['setpiggybank_6',['setPiggyBank',['../classpkg_piggy_bank_1_1pkg_domain_1_1cls_currency.html#ac8818f2e4a7d40f43d5589ef84d14f85',1,'pkgPiggyBank::pkgDomain::clsCurrency']]],
-  ['software_202_20piggybank_7',['Proyecto de Ingenieria de software 2 - PiggyBank',['../index.html',1,'']]]
+  ['software_20engineering_20project_202_20piggybank_7',['Software Engineering Project 2 - PiggyBank',['../index.html',1,'']]]
 ];
